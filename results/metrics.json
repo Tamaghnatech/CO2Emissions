@@ -1,0 +1,9 @@
+{
+    "Best_Model": "Polynomial (degree=4)",
+    "Poly_deg_4_RMSE": 14.3081,
+    "Poly_deg_4_MAE": 7.4654,
+    "Poly_deg_4_R2": 0.9405,
+    "Spline_RMSE": 18.4492,
+    "Spline_MAE": 11.5116,
+    "Spline_R2": 0.901
+}

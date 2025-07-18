@@ -1,0 +1,36 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.13.1",
+  "startedAt": "2025-07-18T21:29:56.701952Z",
+  "program": "c:\\Users\\Tamaghna\\Documents\\CO2EmissionsRegression\\main.py",
+  "codePath": "main.py",
+  "codePathLocal": "main.py",
+  "email": "nagtamaghna@gmail.com",
+  "root": "c:\\Users\\Tamaghna\\Documents\\CO2EmissionsRegression",
+  "host": "Tamaghna",
+  "executable": "c:\\Python313\\python.exe",
+  "cpu_count": 12,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 4060 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1999701749760",
+      "used": "928501800960"
+    }
+  },
+  "memory": {
+    "total": "34278547456"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4060 Ti",
+      "memoryTotal": "8585740288",
+      "cudaCores": 4352,
+      "architecture": "Ada",
+      "uuid": "GPU-d1a48f26-44f9-1b15-c7a1-a7b4b567ef87"
+    }
+  ],
+  "cudaVersion": "12.6",
+  "writerId": "ra4olh6j1q613lyvual4c50pivxf3uud"
+}
