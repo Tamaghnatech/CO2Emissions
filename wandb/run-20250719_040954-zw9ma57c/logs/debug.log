@@ -1,0 +1,74 @@
+2025-07-19 04:09:54,385 INFO    MainThread:30896 [wandb_init.py:setup_run_log_directory():703] Logging user logs to c:\Users\Tamaghna\Documents\CO2EmissionsRegression\wandb\run-20250719_040954-zw9ma57c\logs\debug.log
+2025-07-19 04:09:54,385 INFO    MainThread:30896 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to c:\Users\Tamaghna\Documents\CO2EmissionsRegression\wandb\run-20250719_040954-zw9ma57c\logs\debug-internal.log
+2025-07-19 04:09:54,386 INFO    MainThread:30896 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002BB2036B9D0>
+2025-07-19 04:09:54,386 INFO    MainThread:30896 [wandb_init.py:init():830] calling init triggers
+2025-07-19 04:09:54,386 INFO    MainThread:30896 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-07-19 04:09:54,386 INFO    MainThread:30896 [wandb_init.py:init():871] starting backend
+2025-07-19 04:09:54,386 INFO    MainThread:30896 [wandb_init.py:init():874] sending inform_init request
+2025-07-19 04:09:54,387 INFO    MainThread:30896 [wandb_init.py:init():882] backend started and connected
+2025-07-19 04:09:54,393 INFO    MainThread:30896 [wandb_run.py:_label_probe_notebook():1304] probe notebook
+2025-07-19 04:09:54,393 INFO    MainThread:30896 [wandb_run.py:_label_probe_notebook():1314] Unable to probe notebook: Expecting value: line 1 column 1 (char 0)
+2025-07-19 04:09:54,394 INFO    MainThread:30896 [wandb_init.py:init():953] updated telemetry
+2025-07-19 04:09:54,426 INFO    MainThread:30896 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-07-19 04:09:55,469 INFO    MainThread:30896 [wandb_init.py:init():1029] starting run threads in backend
+2025-07-19 04:09:55,761 INFO    MainThread:30896 [wandb_run.py:_console_start():2458] atexit reg
+2025-07-19 04:09:55,761 INFO    MainThread:30896 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-07-19 04:09:55,761 INFO    MainThread:30896 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-07-19 04:09:55,761 INFO    MainThread:30896 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-07-19 04:09:55,762 INFO    MainThread:30896 [wandb_init.py:init():1075] run started, returning control to user process
+2025-07-19 04:09:55,763 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:09:56,626 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:09:56,626 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:09:56,637 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:09:59,359 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:09:59,359 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:09:59,361 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:00,644 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:00,644 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:00,647 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:01,894 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:01,895 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:01,898 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:03,404 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:03,405 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:03,423 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:05,786 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:05,786 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:05,799 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:07,860 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:07,860 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:07,872 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:11,671 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:11,671 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:11,675 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:15,105 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:15,105 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:15,106 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:17,976 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:17,976 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:17,982 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:20,358 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:20,359 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:20,556 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:23,896 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:23,896 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:24,153 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:29,312 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:29,312 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:29,737 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:34,075 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:34,076 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:34,339 INFO    MainThread:30896 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-19 04:10:43,296 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-19 04:10:43,297 INFO    MainThread:30896 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-19 04:10:43,720 INFO    MainThread:30896 [wandb_run.py:_finish():2224] finishing run nagtamaghna-oxford-vision-and-sensor-technology/CO2-Emissions-Regression/zw9ma57c
+2025-07-19 04:10:43,721 INFO    MainThread:30896 [jupyter.py:save_history():480] not saving jupyter history
+2025-07-19 04:10:43,721 INFO    MainThread:30896 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-07-19 04:10:43,721 INFO    MainThread:30896 [wandb_init.py:_jupyter_teardown():607] cleaning up jupyter logic
+2025-07-19 04:10:43,721 INFO    MainThread:30896 [wandb_run.py:_atexit_cleanup():2423] got exitcode: 0
+2025-07-19 04:10:43,721 INFO    MainThread:30896 [wandb_run.py:_restore():2405] restore
+2025-07-19 04:10:43,721 INFO    MainThread:30896 [wandb_run.py:_restore():2411] restore done
+2025-07-19 04:10:45,491 INFO    MainThread:30896 [wandb_run.py:_footer_history_summary_info():3903] rendering history
+2025-07-19 04:10:45,491 INFO    MainThread:30896 [wandb_run.py:_footer_history_summary_info():3935] rendering summary
+2025-07-19 04:10:45,492 INFO    MainThread:30896 [wandb_run.py:_footer_sync_info():3864] logging synced files
