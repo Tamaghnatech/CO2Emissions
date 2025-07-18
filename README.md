@@ -1,11 +1,10 @@
-Here's your updated and **cleaned-up** `README.md` file with `results/` removed from all image paths so that the images load properly if the markdown is rendered from the `results/` folder or the root (depending on how you link them or host):
 
 ---
-
 ```markdown
 # 🚗 CO₂ Emissions Regression App
 
-Predict CO₂ emissions (g/km) from car specifications using machine learning models such as Polynomial and Spline Regression. This project demonstrates a complete ML pipeline: from EDA and model training to deployment using Streamlit.
+Predict CO₂ emissions (g/km) from car specifications using machine learning models such as Polynomial and Spline Regression.
+This project demonstrates a complete ML pipeline: from EDA and model training to deployment using Streamlit.
 
 ---
 
