@@ -1,10 +1,6 @@
-
----
-```markdown
 # 🚗 CO₂ Emissions Regression App
 
-Predict CO₂ emissions (g/km) from car specifications using machine learning models such as Polynomial and Spline Regression.
-This project demonstrates a complete ML pipeline: from EDA and model training to deployment using Streamlit.
+Predict CO₂ emissions (g/km) from car specifications using machine learning models such as Polynomial and Spline Regression. This project demonstrates a complete ML pipeline: from EDA and model training to deployment using Streamlit.
 
 ---
 
@@ -121,65 +117,3 @@ Fit comparison for degree 2, 3, and 4 polynomials.
 
 ## 💻 Project Structure
 
-```
-
-CO2Emissions/
-├── data/
-├── models/
-│   └── best\_model.pkl
-├── notebooks/
-├── results/
-│   └── \*.png
-├── source/
-│   └── main.py
-├── streamlitapp/
-│   └── app.py
-├── requirements.txt
-├── README.md
-└── ...
-
-````
-
----
-
-## 🚀 Running the App Locally
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-````
-
-Launch the app:
-
-```bash
-streamlit run streamlitapp/app.py
-```
-
----
-
-## 🌐 Deployment Status
-
-* ✅ GitHub repo: [CO2Emissions](https://github.com/Tamaghnatech/CO2Emissions)
-* ⚠️ Deployment via Streamlit Cloud is under testing due to `requirements.txt` issues
-* 🛠️ Docker support and Hugging Face Spaces deployment being considered
-
----
-
-## 🧾 License
-
-MIT License. Open for educational and research use. Credit the author if reused.
-
----
-
-## 🤝 Contribute
-
-PRs are welcome. If you'd like to contribute new model variants or improve UI, drop an issue or contact me.
-
-```
-
----
-
-✅ Let me know if you want this auto-committed to GitHub or rendered as a markdown preview.  
-We can also generate a `Dockerfile`, fix the requirements for Streamlit Cloud, or even push this to Hugging Face Spaces if you want a zero-cost deployment option.
-```
