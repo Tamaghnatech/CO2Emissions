@@ -1,4 +1,4 @@
-Alright Lord Nag, here's your **detailed README.md** for the CO2 Emissions Regression project. It includes all your visualizations with correct relative paths and credits you as the author. Copy this directly into your `CO2Emissions` GitHub repo’s root.
+Here's your updated and **cleaned-up** `README.md` file with `results/` removed from all image paths so that the images load properly if the markdown is rendered from the `results/` folder or the root (depending on how you link them or host):
 
 ---
 
@@ -49,7 +49,7 @@ The original dataset contains information about:
 
 Understanding relationships between numeric features.
 
-![Correlation Matrix](results/correlationmatrix.png)
+![Correlation Matrix](correlationmatrix.png)
 
 ---
 
@@ -57,7 +57,7 @@ Understanding relationships between numeric features.
 
 The target variable shows a right-skewed distribution.
 
-![CO2 Histogram](results/eda_histplot.png)
+![CO2 Histogram](eda_histplot.png)
 
 ---
 
@@ -65,20 +65,20 @@ The target variable shows a right-skewed distribution.
 
 Using dark mode plot to show relationships across fuel types.
 
-![Fuel Comb vs CO2 Altair](results/model_altair.png)
+![Fuel Comb vs CO2 Altair](model_altair.png)
 
 ---
 
 ### ⛽ Fuel Consumption vs CO₂ Emissions
 
 - Fuel City vs CO₂  
-  ![City vs CO2](results/scatplot1.png)
+  ![City vs CO2](scatplot1.png)
 
 - Fuel Comb (L/100 km) vs CO₂  
-  ![Comb vs CO2](results/scatplot2.png)
+  ![Comb vs CO2](scatplot2.png)
 
 - Fuel Comb (mpg) vs CO₂  
-  ![MPG vs CO2](results/scatplot3.png)
+  ![MPG vs CO2](scatplot3.png)
 
 ---
 
@@ -97,7 +97,7 @@ We used RMSE, MAE, and R² score for performance comparison.
 
 Polynomial model outperformed Spline in all metrics.
 
-![Model Comparison Chart](results/model_comparison_chart.png)
+![Model Comparison Chart](model_comparison_chart.png)
 
 ---
 
@@ -105,7 +105,7 @@ Polynomial model outperformed Spline in all metrics.
 
 Fit comparison for degree 2, 3, and 4 polynomials.
 
-![Poly Fit Zoom](results/polyinwork.png)
+![Poly Fit Zoom](polyinwork.png)
 
 ---
 
@@ -177,11 +177,10 @@ MIT License. Open for educational and research use. Credit the author if reused.
 
 PRs are welcome. If you'd like to contribute new model variants or improve UI, drop an issue or contact me.
 
----
-
 ```
 
-Let me know if you want a version with GitHub-flavored Markdown rendered, or a `README_template.md` file auto-pushed to your repo from here. I can also help write the `Dockerfile` or fix the `requirements.txt` for smooth Streamlit deployment.
+---
 
-Ready to roll? 🧠🔥
+✅ Let me know if you want this auto-committed to GitHub or rendered as a markdown preview.  
+We can also generate a `Dockerfile`, fix the requirements for Streamlit Cloud, or even push this to Hugging Face Spaces if you want a zero-cost deployment option.
 ```
