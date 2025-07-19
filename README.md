@@ -157,10 +157,10 @@ streamlit run streamlitapp/app.py
 
 🌐 Deployment Status
 ---
-###✅ GitHub Repo: CO2Emissions
-###🛠️ Streamlit Cloud: Pending (requirements.txt cleanup in progress)
-###🔜 Hugging Face Spaces or Docker deployment being considered
-###📦 Model tracked via Weights & Biases for experiment logging and reproducibility
+✅ GitHub Repo: CO2Emissions
+🛠️ Streamlit Cloud: Pending (requirements.txt cleanup in progress)
+🔜 Hugging Face Spaces or Docker deployment being considered
+📦 Model tracked via Weights & Biases for experiment logging and reproducibility
 ---
 🧾 License
 ---
