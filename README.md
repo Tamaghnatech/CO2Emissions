@@ -154,7 +154,7 @@ First, ensure Python ≥ 3.9 is installed. Then:
 pip install -r requirements.txt
 ```
 streamlit run streamlitapp/app.py
-
+---
 ##🌐 Deployment Status
 
 ###✅ GitHub Repo: CO2Emissions
