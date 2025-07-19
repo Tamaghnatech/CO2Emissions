@@ -1,4 +1,6 @@
 # app.py
+import os
+os.environ["STREAMLIT_HOME"] = os.path.expanduser("~/.streamlit")
 
 #%% 🚀 Imports
 import streamlit as st
