@@ -161,24 +161,24 @@ streamlit run streamlitapp/app.py
 ###🛠️ Streamlit Cloud: Pending (requirements.txt cleanup in progress)
 ###🔜 Hugging Face Spaces or Docker deployment being considered
 ###📦 Model tracked via Weights & Biases for experiment logging and reproducibility
-
+---
 🧾 License
 ---
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute, but do give credit.
-
+---
 🤝 Contribute
 ---
 Pull requests and feedback are always welcome!
 
 Want to improve the model, enhance UI, or add interpretability?
 Feel free to open an issue or email me directly at: tamaghnanag04@gmail.com
-
+---
 ✨ Acknowledgements
 ---
 Government of Canada for the CO₂ Emissions dataset
 Scikit-learn, Streamlit, and Weights & Biases teams
 The community of open-source developers who inspire better software every day
 Stay green. Code clean. 🌱
-
+---
 
