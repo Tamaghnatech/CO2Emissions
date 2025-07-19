@@ -1,4 +1,4 @@
-# 🚗 CO₂ Emissions Regression App
+# 🚗 CO₂ Emissions Prediction (using Polynomial and Spline Regression)
 ![CO2 Emissions From Vehicle](CEF.jpg)
 Predict CO₂ emissions (g/km) from car specifications using machine learning models such as Polynomial and Spline Regression. This project demonstrates a complete ML pipeline: from EDA and model training to deployment using Streamlit.
 
