@@ -116,4 +116,71 @@ Fit comparison for degree 2, 3, and 4 polynomials.
 ---
 
 ## 💻 Project Structure
+CO2Emissions/
+├── data/
+│ └── CO2 Emissions_Canada.csv
+├── models/
+│ └── best_model.pkl
+├── notebooks/
+│ └── exploratory_analysis.ipynb
+│ └── model_training.ipynb
+├── results/
+│ └── correlationmatrix.png
+│ └── eda_histplot.png
+│ └── model_altair.png
+│ └── model_comparison_chart.png
+│ └── polyinwork.png
+│ └── scatplot1.png
+│ └── scatplot2.png
+│ └── scatplot3.png
+├── source/
+│ └── main.py
+├── streamlitapp/
+│ └── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
+---
+
+## 🚀 Running the App Locally
+
+First, ensure Python ≥ 3.9 is installed. Then:
+
+### ✅ Install the dependencies
+
+```
+pip install -r requirements.txt
+```
+streamlit run streamlitapp/app.py
+
+🌐 Deployment Status
+✅ GitHub Repo: CO2Emissions
+
+🛠️ Streamlit Cloud: Pending (requirements.txt cleanup in progress)
+
+🔜 Hugging Face Spaces or Docker deployment being considered
+
+📦 Model tracked via Weights & Biases for experiment logging and reproducibility
+
+🧾 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute, but do give credit.
+
+🤝 Contribute
+Pull requests and feedback are always welcome!
+
+Want to improve the model, enhance UI, or add interpretability?
+Feel free to open an issue or email me directly at: tamaghnanag04@gmail.com
+
+✨ Acknowledgements
+Government of Canada for the CO₂ Emissions dataset
+
+Scikit-learn, Streamlit, and Weights & Biases teams
+
+The community of open-source developers who inspire better software everyday
+
+Stay green. Code clean. 🌱
+
 
