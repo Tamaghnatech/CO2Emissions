@@ -5,7 +5,15 @@ Predict CO₂ emissions (g/km) from car specifications using machine learning mo
 ---
 
 ## 📌 Project Overview
-[Project Link](https://huggingface.co/spaces/Viper0410/CO2EmissionGradio)
+
+<a href="https://huggingface.co/spaces/Viper0410/CO2EmissionGradio" target="_blank">
+  <img src="https://img.shields.io/badge/Try%20Live%20App%20on-HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=white" alt="Try Live App on HuggingFace" />
+</a>
+
+<p align="center">
+  🚀 <strong><a href="https://huggingface.co/spaces/Viper0410/CO2EmissionGradio" target="_blank">Launch the CO₂ Emission Predictor Web App</a></strong>  
+</p>
+
 With increasing climate concerns and environmental regulations, vehicle emissions are a key metric. Using a Canadian vehicle emissions dataset, this project aims to:
 
 - Analyze how engine specs and fuel consumption relate to CO₂ emissions
